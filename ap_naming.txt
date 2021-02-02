@@ -1,0 +1,10 @@
+config ap name AL207-AP-01 f4:bd:9e:d1:72:c0
+config ap name AL207-AP-02 f4:bd:9e:d1:78:18
+config ap name AL207-AP-03 f4:bd:9e:d1:77:f4
+config ap name AL207-AP-04 f4:bd:9e:d1:81:88
+config ap name AL207-AP-05 f4:bd:9e:d1:66:58
+config ap name AL207-AP-06 f4:bd:9e:d1:79:d0
+config ap name AL207-AP-07 f4:bd:9e:d1:6b:d8
+config ap name AL207-AP-08 f4:bd:9e:d1:6c:3c
+config ap name AL207-AP-09 10:b3:d6:64:79:22
+config ap name AL207-AP-10 10:b3:d6:64:72:60
